@@ -26,13 +26,13 @@ will be on for 5 seconds and the pedestrian's Green LED is still on.
 
 ___
 ## Simulation On Proteus:
-![gitHub]()
+![gitHub](https://github.com/MostafaEdrees11/Traffic_Light_Control_System/blob/master/Proteus/Simulation/Traffic%20System.gif)
 
 ## Run on Hardware 
 [Video](https://drive.google.com/file/d/1BRXUtF_cBBFVytFZ_16nYZREgBYJc_ae/view?usp=drive_link)
 ___
 
 ## Analysis
-![gitHub]()
-![gitHub]()
-![gitHub]()
+![gitHub](https://github.com/MostafaEdrees11/Traffic_Light_Control_System/blob/master/Proteus/Simulation/1.jpg)
+![gitHub](https://github.com/MostafaEdrees11/Traffic_Light_Control_System/blob/master/Proteus/Simulation/2.jpg)
+![gitHub](https://github.com/MostafaEdrees11/Traffic_Light_Control_System/blob/master/Proteus/Simulation/3.jpg)
